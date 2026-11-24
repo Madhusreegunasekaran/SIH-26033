@@ -35,9 +35,27 @@ Innovation and Uniqueness:
 - AI-based demand predict.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Technologies Used
+Frontend: HTML, CSS, JavaScript.
+Backend: Python and Django.
+Database: SQLite / MySQL.
+AI/ML: Pandas, NumPy and Scikit-learn for demand prediction.
+Tools: VS Code, Git and GitHub.
+2. Methodology and Implementation
+Register: Farmers and consumers create accounts.
+Connect: Farmers list their agricultural products.
+Discover: Consumers explore fresh products and prices.
+Predict: AI forecasts product demand using sales data.
+Order: Consumers purchase directly from farmers.
+Deliver: Orders are processed for delivery.
+Improve: Feedback helps improve the platform.
+3.Working Prototype
+Farmer and consumer dashboards.
+Live product listings and price details.
+Direct ordering system.
+AI demand prediction.
+Order tracking and feedback.
+<img width="610" height="898" alt="Screenshot 2026-11-24 204123" src="https://github.com/user-attachments/assets/a2667279-81c5-4c91-8265-87efd5e40f18" />
 
 ## Feasibility and Viability
 The platform can be developed using affordable and easily available technologies.
@@ -55,4 +73,7 @@ Solutions:
 - Reduces middlemen and transportation costs.
 
 ## Research and References
-
+1. e-NAM – https://enam.gov.in/
+2. Digital India – https://www.digitalindia.gov.in/
+3. Ministry of Agriculture – https://agriwelfare.gov.in/
+4. FAO – https://www.fao.org/
