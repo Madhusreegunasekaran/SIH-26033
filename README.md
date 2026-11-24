@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24.11.2026
+## Reference Number:26019374
+## Name:Madhusree G
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,10 +26,13 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Our solution is a digital marketplace that connects farmers directly with consumers and bulk buyers. It reduces middlemen, provides better prices for farmers and affordable products for consumers. AI helps predict demand and optimize delivery routes.
+How it addresses the problem:
+- Reduces the number of intermediaries.
+- Helps farmers receive better prices.
+Innovation and Uniqueness:
+- Direct farmer-to-consumer connection.
+- AI-based demand predict.
 
 ## Technical Approach
 Remove These Lines
@@ -37,16 +40,19 @@ Remove These Lines
 2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The platform can be developed using affordable and easily available technologies.
+Challenges:
+- Internet connectivity.
+- Transportation difficulties.
+Solutions:
+- Simple user interface.
+- Local transport support.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+- Farmers get better prices and increased income.
+- Consumers receive fresh products at lower prices.
+- Bulk buyers can purchase products easily.
+- Reduces middlemen and transportation costs.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
